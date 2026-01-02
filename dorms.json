@@ -1,0 +1,292 @@
+[
+    {
+        "dorm_num": 1,
+        "num_beds": 3,
+        "num_chairs": 2,
+        "num_lockers": 2,
+        "num_tables": 3,
+        "students": [
+            {
+                "department": "Computer Science",
+                "id": "CS001",
+                "name": "Ashenafi Adola"
+            },
+            {
+                "department": "Engineering",
+                "id": "EN001",
+                "name": "Ashenafi Adola"
+            },
+            {
+                "department": "Mathematics",
+                "id": "MA001",
+                "name": "Ashenafi Adola"
+            },
+            {
+                "department": "Physics",
+                "id": "PH001",
+                "name": "Ashenafi Adola"
+            }
+        ]
+    },
+    {
+        "dorm_num": 2,
+        "num_beds": 4,
+        "num_chairs": 3,
+        "num_lockers": 4,
+        "num_tables": 2,
+        "students": [
+            {
+                "department": "Biology",
+                "id": "BI001",
+                "name": "Ashenafi Adola"
+            },
+            {
+                "department": "Chemistry",
+                "id": "CH001",
+                "name": "Ashenafi Adola"
+            },
+            {
+                "department": "History",
+                "id": "HI001",
+                "name": "Ashenafi Adola"
+            },
+            {
+                "department": "Literature",
+                "id": "LI001",
+                "name": "Ashenafi Adola"
+            }
+        ]
+    },
+    {
+        "dorm_num": 3,
+        "num_beds": 2,
+        "num_chairs": 4,
+        "num_lockers": 3,
+        "num_tables": 1,
+        "students": [
+            {
+                "department": "Art",
+                "id": "AR001",
+                "name": "Ashenafi Adola"
+            },
+            {
+                "department": "Music",
+                "id": "MU001",
+                "name": "Ashenafi Adola"
+            },
+            {
+                "department": "Philosophy",
+                "id": "PH002",
+                "name": "Ashenafi Adola"
+            },
+            {
+                "department": "Psychology",
+                "id": "PS001",
+                "name": "Ashenafi Adola"
+            }
+        ]
+    },
+    {
+        "dorm_num": 4,
+        "num_beds": 3,
+        "num_chairs": 2,
+        "num_lockers": 2,
+        "num_tables": 3,
+        "students": [
+            {
+                "department": "Economics",
+                "id": "EC001",
+                "name": "Ashenafi Adola"
+            },
+            {
+                "department": "Political Science",
+                "id": "PO001",
+                "name": "Ashenafi Adola"
+            },
+            {
+                "department": "Sociology",
+                "id": "SO001",
+                "name": "Ashenafi Adola"
+            },
+            {
+                "department": "Anthropology",
+                "id": "AN001",
+                "name": "Ashenafi Adola"
+            }
+        ]
+    },
+    {
+        "dorm_num": 5,
+        "num_beds": 4,
+        "num_chairs": 3,
+        "num_lockers": 4,
+        "num_tables": 2,
+        "students": [
+            {
+                "department": "Medicine",
+                "id": "MD001",
+                "name": "Ashenafi Adola"
+            },
+            {
+                "department": "Nursing",
+                "id": "NU001",
+                "name": "Ashenafi Adola"
+            },
+            {
+                "department": "Dentistry",
+                "id": "DE001",
+                "name": "Ashenafi Adola"
+            },
+            {
+                "department": "Pharmacy",
+                "id": "PH003",
+                "name": "Ashenafi Adola"
+            }
+        ]
+    },
+    {
+        "dorm_num": 6,
+        "num_beds": 2,
+        "num_chairs": 4,
+        "num_lockers": 3,
+        "num_tables": 1,
+        "students": [
+            {
+                "department": "Law",
+                "id": "LA001",
+                "name": "Ashenafi Adola"
+            },
+            {
+                "department": "Business",
+                "id": "BU001",
+                "name": "Ashenafi Adola"
+            },
+            {
+                "department": "Education",
+                "id": "ED001",
+                "name": "Ashenafi Adola"
+            },
+            {
+                "department": "Environmental Science",
+                "id": "ES001",
+                "name": "Ashenafi Adola"
+            }
+        ]
+    },
+    {
+        "dorm_num": 7,
+        "num_beds": 3,
+        "num_chairs": 2,
+        "num_lockers": 2,
+        "num_tables": 3,
+        "students": [
+            {
+                "department": "Architecture",
+                "id": "AR002",
+                "name": "Ashenafi Adola"
+            },
+            {
+                "department": "Design",
+                "id": "DE002",
+                "name": "Ashenafi Adola"
+            },
+            {
+                "department": "Film",
+                "id": "FI001",
+                "name": "Ashenafi Adola"
+            },
+            {
+                "department": "Theater",
+                "id": "TH001",
+                "name": "Ashenafi Adola"
+            }
+        ]
+    },
+    {
+        "dorm_num": 8,
+        "num_beds": 4,
+        "num_chairs": 3,
+        "num_lockers": 4,
+        "num_tables": 2,
+        "students": [
+            {
+                "department": "Journalism",
+                "id": "JO001",
+                "name": "Ashenafi Adola"
+            },
+            {
+                "department": "Communications",
+                "id": "CO001",
+                "name": "Ashenafi Adola"
+            },
+            {
+                "department": "Linguistics",
+                "id": "LI002",
+                "name": "Ashenafi Adola"
+            },
+            {
+                "department": "Statistics",
+                "id": "ST001",
+                "name": "Ashenafi Adola"
+            }
+        ]
+    },
+    {
+        "dorm_num": 9,
+        "num_beds": 2,
+        "num_chairs": 4,
+        "num_lockers": 3,
+        "num_tables": 1,
+        "students": [
+            {
+                "department": "Geology",
+                "id": "GE001",
+                "name": "Ashenafi Adola"
+            },
+            {
+                "department": "Astronomy",
+                "id": "AS001",
+                "name": "Ashenafi Adola"
+            },
+            {
+                "department": "Botany",
+                "id": "BO001",
+                "name": "Ashenafi Adola"
+            },
+            {
+                "department": "Zoology",
+                "id": "ZO001",
+                "name": "Ashenafi Adola"
+            }
+        ]
+    },
+    {
+        "dorm_num": 10,
+        "num_beds": 3,
+        "num_chairs": 2,
+        "num_lockers": 2,
+        "num_tables": 3,
+        "students": [
+            {
+                "department": "Neuroscience",
+                "id": "NE001",
+                "name": "Ashenafi Adola"
+            },
+            {
+                "department": "Biotechnology",
+                "id": "BT001",
+                "name": "Ashenafi Adola"
+            },
+            {
+                "department": "Data Science",
+                "id": "DS001",
+                "name": "Ashenafi Adola"
+            },
+            {
+                "department": "Cybersecurity",
+                "id": "CY001",
+                "name": "Ashenafi Adola"
+            }
+        ]
+    }
+]
